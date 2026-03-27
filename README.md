@@ -35,6 +35,10 @@ Proposal marked Paid / Campaign Completed
 All state — profiles, campaigns, proposals, payment records — lives on the **Stellar ledger**. No backend, no database, no trust required.
 
 ---
+## Diploy start contact Link
+<img width="1885" height="969" alt="image" src="https://github.com/user-attachments/assets/44174fb7-eb26-415b-9010-74f167c31243" />
+
+
 
 ## ✨ Features
 
